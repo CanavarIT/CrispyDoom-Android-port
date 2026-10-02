@@ -306,9 +306,5 @@ Common problems:
 
 ## Licenses
 
-- **Crispy Doom** and **Doom** source code: GNU GPL v2 or later.
-- **SDL2** and **SDL2_mixer**: zlib license.
-- **doom1.wad** (shareware): distributed under id Software's shareware terms; the data is not open source.
-- The Android-specific code in this repository (`MainActivity`, `TouchControlsView`) is provided under the same GPL-compatible terms as the engine it ships with.
-
+- The Android-specific code in this repository (`MainActivity`, `TouchControlsView`) is released under the **GNU General Public License v2.0**. See [LICENSE](LICENSE).
 Since the project links and ships GPL code, the complete source must be made available to anyone you distribute the APK to.
